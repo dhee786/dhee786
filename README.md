@@ -1,11 +1,4 @@
-## Hi there 👋
-
-<!--
-**dhee786/dhee786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...<h1 align="center">Hey Guys___ 👋, I'm Dheeraj Kumar</h1>
+<h1 align="center">Hey Guys___ 👋, I'm Dheeraj Kumar</h1>
 <h3 align="center">🚀 Software Developer | AI Enthusiast</h3>
 
 ---
