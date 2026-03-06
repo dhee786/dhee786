@@ -50,7 +50,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=dhee786&show_icons=true&theme=radical" height="180"/>
 
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhee786&theme=radical" height="180"/> -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhee786&theme=radical" height="180"/>
 
 </p>
 
@@ -60,7 +60,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhee786&layout=compact&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhee786&layout=compact&theme=tokyonight"/>
 
 </p>
 
