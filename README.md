@@ -50,7 +50,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=dhee786&show_icons=true&theme=radical" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhee786&theme=radical" height="180"/>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhee786&theme=radical" height="180"/> -->
 
 </p>
 
@@ -88,20 +88,6 @@ AI based system that detects **rotten fruits and vegetables using deep learning 
 * Confidence score prediction
 * Modern dashboard UI
 * Deep learning model integration
-
-### 🎥 Project Demo
-
-<img src="images/demo.gif" width="800">
-
-### 📸 Dashboard
-
-<img src="images/dashboard.png" width="800">
-
-### 📸 Detection Result
-
-<img src="images/detection.png" width="800">
-
----
 
 # 🛠 Technologies
 
