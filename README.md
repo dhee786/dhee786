@@ -32,19 +32,19 @@ Pandas | NumPy | TensorFlow | OpenCV
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dhee786&show_icons=true&theme=radical)
+![GitHub stats]([https://github-readme-stats.vercel.app/api?username=dhee786&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=dhee786&show_icons=true&theme=radical))
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhee786&theme=radical)
+![GitHub Streak]([https://github-readme-streak-stats.herokuapp.com/?user=dhee786&theme=radical](https://streak-stats.demolab.com/?user=dhee786&theme=radical))
 
 ---
 
 ## 🧠 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhee786&layout=compact&theme=tokyonight)
+![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=dhee786&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=dhee786&layout=compact&theme=radical))
 
 ---
 
@@ -80,5 +80,8 @@ Pandas | NumPy | TensorFlow | OpenCV
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/YOUR_USERNAME/dhee786/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/dhee786/dhee786/blob/output/github-contribution-grid-snake.svg)
+
+
+
 
