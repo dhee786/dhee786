@@ -1,87 +1,146 @@
-<h1 align="center">Hey Guys___ 👋, I'm Dheeraj Kumar</h1>
-<h3 align="center">🚀 Software Developer | AI Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Dheeraj Kumar</h1>
+<h3 align="center">🚀 Software Developer | AI & Machine Learning Enthusiast</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&center=true&vCenter=true&width=750&height=60&duration=3000&lines=Welcome+to+my+GitHub+Profile!;Machine+Learning+Developer;Computer+Vision+Projects;Python+Programmer;Future+Software+Engineer"/>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+# 👀 Profile Visitors
 
-💡 Passionate about building ** Software AI powered applications**
-
-- 🔭 Currently working on **Software Technical Projects**
-- 🌱 Learning **Machine Learning & Web Development**
-- 💻 Strong interest in **Machine Learning & SQL**
-- 🎯 Goal: Become a **Software Developer**
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=dhee786&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+</p>
 
 ---
 
-## 🚀 Tech Stack
+# 👨‍💻 About Me
 
-💻 Programming
+💡 Passionate about building **AI Powered Applications**
 
-Python | Java | SQL | JavaScript | Front-end
-
-📊 Data Science
-
-Pandas | NumPy | TensorFlow | OpenCV
-
-🌐 Development
-
- Git | GitHub | MySQL | MS Office Tools | Canva
+* 🔭 Currently working on **Machine Learning & Computer Vision Projects**
+* 🌱 Currently learning **Deep Learning & Full Stack Development**
+* 💻 Interested in **Artificial Intelligence, Data Science & Software Development**
+* 🎯 Goal: Become a **Professional Software Engineer**
 
 ---
 
-## 📊 GitHub Stats
+# 🧑‍💻 Developer Tech Stack
 
-![GitHub stats]([https://github-readme-stats.vercel.app/api?username=dhee786&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=dhee786&show_icons=true&theme=radical))
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,sql,tensorflow,opencv,git,github,vscode"/>
 
-## 🔥 GitHub Streak
-
-![GitHub Streak]([https://github-readme-streak-stats.herokuapp.com/?user=dhee786&theme=radical](https://streak-stats.demolab.com/?user=dhee786&theme=radical))
+</p>
 
 ---
 
-## 🧠 Top Languages
+# 🏆 GitHub Trophy
 
-![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=dhee786&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=dhee786&layout=compact&theme=radical))
-
----
-
-## 🚀 Featured Projects
-
-🔎 Rotten Fruits Detection  
-🔎 Word Detection 
-🚗 Vehicle Number Plate Detection
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=dhee786&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+</p>
 
 ---
 
-## 🌐 Connect With Me
+# 📊 GitHub Stats
 
-📧 Email: sharmajidheeraj786@gmail.com  
-💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/dheeraj4787/)
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dhee786&show_icons=true&theme=radical" height="180"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhee786&theme=radical" height="180"/>
+
+</p>
 
 ---
 
-⭐ If you like my work please give a star to my repositories!
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🧠 Top Languages
 
+<p align="center">
 
-### 🛠️ Tech Stack
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhee786&layout=compact&theme=radical"/>
 
-<img src="https://skillicons.dev/icons?i=python,java,sql,j,,tensorflow,opencv,git,github,mysql,ms office,vscode,canva," />
+</p>
 
-## 🐍 Contribution Snake
+---
 
-![snake gif](https://github.com/dhee786/dhee786/blob/output/github-contribution-grid-snake.svg)
+# 🐍 Contribution Snake
 
+<p align="center">
 
+<img src="https://raw.githubusercontent.com/dhee786/dhee786/output/github-contribution-grid-snake.svg"/>
 
+</p>
 
+---
+
+# 🚀 Featured Projects
+
+## 🍎 Rotten Fruits & Vegetables Detection
+
+AI based system that detects **rotten fruits and vegetables using deep learning and computer vision**
+
+### ✨ Features
+
+* Real-time camera detection
+* Confidence score prediction
+* Modern dashboard UI
+* Deep learning model integration
+
+### 🎥 Project Demo
+
+<img src="images/demo.gif" width="800">
+
+### 📸 Dashboard
+
+<img src="images/dashboard.png" width="800">
+
+### 📸 Detection Result
+
+<img src="images/detection.png" width="800">
+
+---
+
+# 🛠 Technologies
+
+### Programming
+
+Python | Java | SQL | JavaScript
+
+### Machine Learning
+
+TensorFlow | OpenCV | NumPy | Pandas
+
+### Tools
+
+Git | GitHub | MySQL | VS Code | Canva
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/dheeraj4787/">
+<img src="https://img.shields.io/badge/LinkedIn-Dheeraj-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:sharmajidheeraj786@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/dhee786">
+<img src="https://img.shields.io/badge/GitHub-dhee786-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# ⭐ Support
+
+If you like my work please ⭐ **Star my repositories** and follow my GitHub profile.
+
+🚀 Always building something new in **AI, Machine Learning and Software Development**
