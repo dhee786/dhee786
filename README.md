@@ -36,14 +36,6 @@
 
 ---
 
-# 🏆 GitHub Trophy
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dhee786&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
-</p>
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
@@ -51,16 +43,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=dhee786&show_icons=true&theme=radical" height="180"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhee786&theme=radical" height="180"/>
-
-</p>
-
----
-
-# 🧠 Top Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhee786&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -75,19 +57,6 @@
 </p>
 
 ---
-
-# 🚀 Featured Projects
-
-## 🍎 Rotten Fruits & Vegetables Detection
-
-AI based system that detects **rotten fruits and vegetables using deep learning and computer vision**
-
-### ✨ Features
-
-* Real-time camera detection
-* Confidence score prediction
-* Modern dashboard UI
-* Deep learning model integration
 
 # 🛠 Technologies
 
