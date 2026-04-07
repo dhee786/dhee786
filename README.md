@@ -40,15 +40,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dhee786&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhee786&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhee786&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhee786&theme=tokyonight&hide_border=true&border_radius=10" height="200"/>
 
 </p>
 
